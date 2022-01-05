@@ -9,6 +9,7 @@ Only supported in Linux OS
 Features
 
 [x] Deploy Entire Project with Single Command
+
 [x] Push Updates with minimal Downtime
 
 ### **Get $100 Free Credits on [Vultr](https://www.vultr.com/?ref=7168946) (Affiliate Link)**
