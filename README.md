@@ -7,6 +7,7 @@ Deploying Django takes to much efforts, so i made this program, this program wil
 Only supported in Linux OS
 
 Features
+
 [x] Deploy Entire Project with Single Command
 [x] Push Updates with minimal Downtime
 
@@ -21,6 +22,7 @@ python easyd.py --help  # to view all available options and arguments
 ```
 
 *Example Commands*
+
 **Deploy GIT Project**
 ```
 python easyd.py GIT --git-url http://da:dasd@gmail.com --python_version 3.8 --requirments req.txt --collect-static --migrate --project_name test --domain www.test.com test.com
